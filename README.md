@@ -16,7 +16,8 @@ Welcome to my repository showcasing some of the key data analytics projects I’
   - Reduced booking cancellations by 10-15% through the implementation of dynamic pricing strategies.
   - Improved hotel revenue by 12-18% by optimizing marketing efforts and enhancing customer engagement.
   
-[**Link to Project**](https://github.com/AmitKumarJha-ds/Project_2025/tree/main/Ola%20Power%20BI)
+[**Link to Project**](https://github.com/AmitKumarJha-ds/Project_2025/tree/main/Hotel%20Booking%20Analysis)
+
 
 ---
 
@@ -29,7 +30,7 @@ Welcome to my repository showcasing some of the key data analytics projects I’
   - Reduced ride cancellations by 10% by implementing data-driven strategies.
   - Optimized ride allocation methods, improving operational efficiency.
   
-[**Link to Project**](#) *(Add your project link)*
+[**Link to Project**](https://github.com/AmitKumarJha-ds/Project_2025/tree/main/Ola%20Power%20BI)
 
 ---
 
